@@ -9,4 +9,4 @@ Steps
 
 1. run the flask file 'upload.py'
 2. upload the scanned image (jpeg file) in the browser.
-3.output image will be saved in 'Test' folder
+3. output image will be saved in 'Test' folder
