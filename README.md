@@ -1,4 +1,4 @@
-# Medical-Image-Enhancement
+# Medical-Image-Enhancement Using ML and Image Processing
 Medical scanned images (MRI/CT) can be compressed and enhanced without lossing its quality.
 
 Methods Used
