@@ -1,4 +1,4 @@
-# Medi-Image-Enhancement
+# Medical-Image-Enhancement
 Medical scanned images (MRI/CT) can be compressed and enhanced without lossing its quality.
 
 Methods Used
